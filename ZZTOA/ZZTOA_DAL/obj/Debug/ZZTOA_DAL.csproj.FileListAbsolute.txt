@@ -1,0 +1,12 @@
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_DAL.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_DAL.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.csproj.CoreCompileInputs.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.csprojResolveAssemblyReference.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\NPOI.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\System.Web.Mvc.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_Model.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_Model.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\System.Web.Mvc.xml
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll

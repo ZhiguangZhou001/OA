@@ -1,0 +1,11 @@
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_BLL.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_BLL.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.csprojResolveAssemblyReference.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.csproj.CoreCompileInputs.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_DAL.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_Model.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\NPOI.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_DAL.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_Model.pdb

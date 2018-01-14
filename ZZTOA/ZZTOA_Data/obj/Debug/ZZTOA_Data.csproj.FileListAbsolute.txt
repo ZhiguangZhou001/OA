@@ -1,0 +1,6 @@
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Data\bin\Debug\ZZTOA_Data.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Data\bin\Debug\ZZTOA_Data.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Data\obj\Debug\ZZTOA_Data.csproj.CoreCompileInputs.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Data\obj\Debug\ZZTOA_Data.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Data\obj\Debug\ZZTOA_Data.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Data\obj\Debug\ZZTOA_Data.csprojResolveAssemblyReference.cache

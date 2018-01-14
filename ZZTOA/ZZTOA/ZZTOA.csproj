@@ -25,6 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -203,6 +204,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ZZTOA_BLL\ZZTOA_BLL.csproj">
+      <Project>{4a1c9bea-fad0-4215-849d-3301f83b07e2}</Project>
+      <Name>ZZTOA_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ZZTOA_Model\ZZTOA_Model.csproj">
+      <Project>{e8f17ac4-b937-41a0-bb16-8efc5f51a579}</Project>
+      <Name>ZZTOA_Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

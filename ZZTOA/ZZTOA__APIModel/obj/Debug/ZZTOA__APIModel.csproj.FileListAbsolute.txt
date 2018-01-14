@@ -1,0 +1,6 @@
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA__APIModel\bin\Debug\ZZTOA__APIModel.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA__APIModel\bin\Debug\ZZTOA__APIModel.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA__APIModel\obj\Debug\ZZTOA__APIModel.csprojResolveAssemblyReference.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA__APIModel\obj\Debug\ZZTOA__APIModel.csproj.CoreCompileInputs.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA__APIModel\obj\Debug\ZZTOA__APIModel.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA__APIModel\obj\Debug\ZZTOA__APIModel.pdb

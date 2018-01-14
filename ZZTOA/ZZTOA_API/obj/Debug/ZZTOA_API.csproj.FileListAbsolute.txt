@@ -1,0 +1,12 @@
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\ZZTOA_API.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\ZZTOA_API.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\ZZTOA_Model.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\ZZTOA_Model.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\obj\Debug\ZZTOA_API.csprojResolveAssemblyReference.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\obj\Debug\ZZTOA_API.csproj.CoreCompileInputs.cache
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\obj\Debug\ZZTOA_API.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\obj\Debug\ZZTOA_API.pdb
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\NPOI.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\System.Web.Mvc.dll
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\System.Web.Mvc.xml
+D:\GitCode\CODE\OA\ZZTOA\ZZTOA_API\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
