@@ -9,3 +9,13 @@ D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_Model.dll
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\NPOI.dll
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_DAL.pdb
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_Model.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_BLL.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_BLL.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_DAL.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_Model.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\NPOI.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_DAL.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\bin\Debug\ZZTOA_Model.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.csprojResolveAssemblyReference.cache
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_BLL\obj\Debug\ZZTOA_BLL.pdb

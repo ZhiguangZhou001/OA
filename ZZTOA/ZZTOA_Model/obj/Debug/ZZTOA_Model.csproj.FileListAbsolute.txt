@@ -4,3 +4,8 @@ D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.csproj.CoreCompileInp
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.dll
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.pdb
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.csprojResolveAssemblyReference.cache
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_Model\bin\Debug\ZZTOA_Model.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_Model\bin\Debug\ZZTOA_Model.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.csprojResolveAssemblyReference.cache
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_Model\obj\Debug\ZZTOA_Model.pdb

@@ -6,20 +6,23 @@
     <p><a href="/Home/ExportExcelToClient" class="btn btn-primary btn-lg">导出Excel到客户端 &raquo;</a></p>
     <p><a onclick="ExportToServer()" class="btn btn-primary btn-lg">导出Excel到服务器 &raquo;</a></p>
 </div>
-<script>
-    function ExportToServer() {
-        $.ajax({
-            url: "/Home/ExportExcelToServer",
-            type: "POST",
-            success: function (data) {
-                if (data.code == 0) {
-                    alert("导出成功，请在项目下寻找导出文件");
+@section scripts{
+    <script>
+        function ExportToServer() {
+            $.ajax({
+                url: "/Home/ExportExcelToServer",
+                type: "POST",
+                success: function (data) {
+                    if (data.code == 0) {
+                        alert("导出成功，请在项目下寻找导出文件");
+                    }
+                    else {
+                        alert(data.msg);
+                    }
                 }
-                else {
-                    alert(data.msg);
-                }
-            }
-        });
-    }  
+            });
+        }
 </script>
+    }
+
 

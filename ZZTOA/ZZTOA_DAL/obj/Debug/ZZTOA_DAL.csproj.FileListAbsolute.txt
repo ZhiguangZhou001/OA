@@ -10,3 +10,14 @@ D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_Model.dll
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_Model.pdb
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\System.Web.Mvc.xml
 D:\GitCode\CODE\OA\ZZTOA\ZZTOA_DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_DAL.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_DAL.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\NPOI.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\System.Web.Mvc.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_Model.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\ZZTOA_Model.pdb
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\System.Web.Mvc.xml
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.csprojResolveAssemblyReference.cache
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.dll
+G:\net学习参考资料\OA\ZZTOA\ZZTOA_DAL\obj\Debug\ZZTOA_DAL.pdb
