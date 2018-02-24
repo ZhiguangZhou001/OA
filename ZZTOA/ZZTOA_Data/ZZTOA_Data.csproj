@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>657b6de7-d06d-4d0a-ab5c-30206b6786ca</ProjectGuid>
+    <ProjectGuid>{657B6DE7-D06D-4D0A-AB5C-30206B6786CA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ZZTOA_Data</RootNamespace>
@@ -30,24 +30,97 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System"/>
-    
-    <Reference Include="System.Core"/>
-    <Reference Include="System.Xml.Linq"/>
-    <Reference Include="System.Data.DataSetExtensions"/>
-    
-    
-    <Reference Include="Microsoft.CSharp"/>
-    
-    <Reference Include="System.Data"/>
-    
-    <Reference Include="System.Net.Http"/>
-    
-    <Reference Include="System.Xml"/>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="From_Control.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="From_Data.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="From_Layout.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Group_Info.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Info.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Obj_File_Relation.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sysdiagrams.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="User_Info.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="User_Role.cs">
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="zzt.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>zzt.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="zzt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>zzt.tt</DependentUpon>
+    </Compile>
+    <Compile Include="zzt.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>zzt.edmx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="zzt.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>zzt.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
+    <None Include="zzt.edmx.diagram">
+      <DependentUpon>zzt.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="zzt.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>zzt.Context.cs</LastGenOutput>
+      <DependentUpon>zzt.edmx</DependentUpon>
+    </Content>
+    <Content Include="zzt.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>zzt.edmx</DependentUpon>
+      <LastGenOutput>zzt.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
- </Project>
+</Project>

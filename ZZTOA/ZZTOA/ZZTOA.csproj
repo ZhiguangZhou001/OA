@@ -142,6 +142,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\option\Controllers\FormController.cs" />
+    <Compile Include="Areas\option\optionAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -153,6 +155,25 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="static\assets\img\logo.png" />
+    <Content Include="static\assets\logo.png" />
+    <Content Include="static\plugins\form\css\colpick.css" />
+    <Content Include="static\plugins\form\css\easywin.ui.min.css" />
+    <Content Include="static\plugins\form\css\font-icons.css" />
+    <Content Include="static\plugins\form\css\form-select.css" />
+    <Content Include="static\plugins\form\css\form-typeahead.css" />
+    <Content Include="static\plugins\form\css\form-view.css" />
+    <Content Include="static\plugins\form\css\form.css" />
+    <Content Include="static\plugins\form\css\img\preview-bg.png" />
+    <Content Include="static\plugins\form\css\org.css" />
+    <Content Include="static\plugins\form\css\plugins.min.css" />
+    <Content Include="static\plugins\form\js\colpick.js" />
+    <Content Include="static\plugins\form\js\form.js" />
+    <Content Include="static\plugins\form\js\libs.js" />
+    <Content Include="static\plugins\form\js\plugins.js" />
+    <Content Include="static\plugins\form\js\static\plugins\form\js\form.js" />
+    <Content Include="static\plugins\timeLine\dhx_cal_event_line_bg.gif" />
+    <Content Include="static\plugins\timeLine\dhx_cal_event_line_bg_move.gif" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
@@ -160,6 +181,12 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="static\plugins\form\css\fonts\teams.ttf" />
+    <Content Include="Areas\option\Views\web.config" />
+    <Content Include="Areas\option\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\option\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\option\Views\Form\FormEditor.cshtml" />
+    <Content Include="Areas\option\Views\Form\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -188,6 +215,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\option\Models\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
